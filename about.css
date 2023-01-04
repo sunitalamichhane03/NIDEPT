@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+.container{
+    margin: auto;
+    height: 18vh;
+    background-color:  #0a499b; 
+}
+.logo{
+    width: 26%;
+    margin-left: 300px;
+    display: flex;
+}
+.logo img{
+    width: 35%;
+    margin-top: 10px;
+    display: flex;
+}
+.comment{
+    color: white;
+    margin: -114px 500px;
+}
+h1{
+    font-size: 20px;
+    font-weight: lighter;
+}
+h2{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+h3{
+    margin-top: 10px;
+    font-size: 20px;
+}
+ .about p{
+    text-align: justify;
+    font-size: 20px;
+    gap: 1px;
+}
+body {
+    font-family: "Roboto", Sans-serif;
+}
+.about p{
+    padding-top: 4px;
+    padding-right: 250px;
+   
+    padding-left: 250px;
+  }
